@@ -1,0 +1,6 @@
+
+./assembler/asm 
+
+./obj_dir/
+
+./testbenches/*/
